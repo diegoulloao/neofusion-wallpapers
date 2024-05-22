@@ -21,7 +21,7 @@
 
   <tr>
     <td valign="top" align="center">
-      <a href="#">1024x768</a>
+      <a href="https://raw.githubusercontent.com/diegoulloao/neofusion-wallpapers/main/img/1024x768.jpeg" download>1024x768</a>
       <br />
       <a href="#">1280x720</a>
       <br />
