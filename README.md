@@ -10,6 +10,8 @@
 
 ---
 
+<h2 align="center">Download ⬇</h2>
+
 <table border"0" align="center">
   <tr>
     <td>Popular resolutions</td>
