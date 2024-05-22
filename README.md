@@ -14,13 +14,13 @@
 
 <table border"0" align="center">
   <tr>
-    <td>Popular resolutions</td>
-    <td>HD resolutions</td>
-    <td>Wide resolutions</td>
+    <td>Popular resolutions 🔥</td>
+    <td>HD resolutions ✨</td>
+    <td>Wide resolutions 🖥️</td>
   </tr>
 
   <tr>
-    <td valign="top">
+    <td valign="top" align="center">
       <a href="#">1024x768</a>
       <br />
       <a href="#">1280x720</a>
@@ -48,7 +48,7 @@
       <a href="#">3840x2160</a>
     </td>
     
-<td valign="top">
+<td valign="top" align="center">
       <a href="#">1024x768</a>
       <br />
       <a href="#">1152x864</a>
@@ -76,7 +76,7 @@
       <a href="#">3840x2400</a>
 </td>
 
-<td valign="top">
+<td valign="top" align="center">
   <a href="#">1280x800</a>
   <br />
   <a href="#">1440x900</a>
