@@ -1,4 +1,7 @@
-<h1 align="center">neofusion-wallpapers</h1>
+<h1 align="center">
+  <img src="https://i.ibb.co/87DhmZx/logo.jpg" width="110" />
+  <br />neofusion-wallpapers
+</h1>
 
 <p align="center">
   Nice looking wallpapers for desktop blending lava red and ice blue colors ✨
