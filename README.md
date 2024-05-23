@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://i.ibb.co/87DhmZx/logo.jpg" width="110" />
-  <br />neofusion-wallpapers
+  <br />wallpapers for neofusion
 </h1>
 
 <p align="center">
